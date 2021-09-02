@@ -1,4 +1,4 @@
-### Olá mundo! Eu sou o Giovanni Corrêa! 👋
+### Olá! Eu sou o Giovanni Corrêa! 👋
 
 
 - 🔭 Estou trabalhando com .NET Core, Blazor e SqlServer.
