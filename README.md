@@ -32,5 +32,7 @@
   -->
 </div>
 <br>
+  
+![Snake animation](https://github.com/giovannircorrea/giovannircorrea/blob/output/github-contribution-grid-snake.svg)
 
 
