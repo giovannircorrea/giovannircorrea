@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/giovannircorrea">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannircorrea&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannircorrea&layout=compact&langs_count=10&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=giovannircorrea&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannircorrea&layout=compact&langs_count=10&theme=dark"/>-->
 </div>
   <div style="display: inline_block;">
   <img align="center" alt="GIO--Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
