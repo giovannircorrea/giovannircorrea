@@ -2,7 +2,14 @@
 
 
 - 🔭 Estou trabalhando com .NET Core, Blazor e SqlServer.
+  
+<a href="https://www.linkedin.com/in/giovanni-ramos-corr%C3%AAa-96341a90" target="_blank"><img src="https://img.shields.io/badge/-Acesse o meu perfil no LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+<!--
+<a href="https://instagram.com/giovannircorrea" target="_blank"><img src="https://img.shields.io/badge/-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:giovanniramoscorrea@gmail.com"><img src="https://img.shields.io/badge/-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+-->
+ 
 
 <div>
   <a href="https://github.com/giovannircorrea">
@@ -32,14 +39,6 @@
   <img align="center" alt="GIO--Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg">
   -->
 </div>
-<br>
   
-<div style="display: inline_block;"> 
-  <a href="https://instagram.com/giovannircorrea" target="_blank"><img src="https://img.shields.io/badge/-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:giovanniramoscorrea@gmail.com"><img src="https://img.shields.io/badge/-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/giovanni-ramos-corr%C3%AAa-96341a90" target="_blank"><img src="https://img.shields.io/badge/-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
 ![Snake animation](https://github.com/giovannircorrea/giovannircorrea/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
 
